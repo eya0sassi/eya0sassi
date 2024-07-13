@@ -20,7 +20,8 @@
 <img src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif" alt="Banner Image" width="450" align="right" height="280"/>
 <div style="border-left: 2px solid #000; height: 100px;"></div>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=eya0sassi&show_icons=true&locale=en" alt="Eya's GitHub Stats" width="43%" height="" >
+<img src="https://github-readme-stats.vercel.app/api?username=eya0sassi&show_icons=true&locale=en&theme=tokyonight" alt="Eya's GitHub Stats" width="43%" height="">
+
 
 ***
 <h3 align="left">Connect with me:</h3>
